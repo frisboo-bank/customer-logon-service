@@ -1,1 +1,1 @@
-# customers-logon
+# customers-logon-service
